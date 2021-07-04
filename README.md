@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="key4168@icloud.com"><img src="https://img.shields.io/badge/Mail-40AEF0?style=flat-square&logoColor=white"/> <a href="https://velog.io/@dumn423"><img src="https://img.shields.io/badge/Blog-FF7F00?style=flat-square&logo=About.me&logoColor=white"/> <a href="https://www.instagram.com/gwang_yong_00/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 
-
-
+<!-- A+ 띄워주는건데, 너무 한게없어서 일단 보류 ㅠ -->
+<!-- [![Gwangyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gwangyong&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats) -->
