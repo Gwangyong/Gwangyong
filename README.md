@@ -1,5 +1,5 @@
 <!-- <h2 align="center">안녕하세요! 대학생 iOS 앱 개발자 서광용 입니다.</h2> -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=%20Gwangyong%20&height=300&fontSize=100&fontAlign=50&fontAlignY=40&fontColor=000000&desc=%Hi%20there!%20I'm%20mobile%20app%20developer%20using%20iOS.)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=%20Gwangyong%20&height=300&fontSize=100&fontAlign=50&fontAlignY=40&fontColor=000000&desc=Hi%20there!%20I'm%20a%20developer%20interested%20in%20mobile%20and%20web%20development.)
 
 
 <h2 align="center">🪵 Tech Stack 🪵</h3>
