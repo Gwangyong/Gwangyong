@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=%20Welcome!%20&height=300&fontSize=100&fontAlign=50&fontAlignY=40&fontColor=424242&desc=Gwangyong's%20GitHub%20Profile&Desc&descAlign=60)
 
 <p align="center">
-반갑습니다!<br>제 이름은 서광용이고<br>iOS 앱 개발자를 목표로 공부하고 있습니다.
+👋 반갑습니다! <br>제 이름은 서광용이고, iOS 앱 개발자를 목표로 공부하고 있습니다.
 </p>
 
 <br>
