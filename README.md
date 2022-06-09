@@ -5,8 +5,9 @@
 반갑습니다!<br>제 이름은 서광용이고<br>iOS 앱 개발자를 목표로 공부하고 있습니다.
 </p>
 
+<br>
 
-<h2 align="center">🪵 Skill 🪵</h3>
+<h2 align="center">🪵 Skill 🪵</h2>
 <!--<h3 align="center"> Techs that I've used at least once </h4>-->
 
 <p align="center">
@@ -17,11 +18,11 @@
 </p>
 
 
-<!--<h3 align="center">🍀 used at the once 🍀</h5>-->
-<!--<p align="center">-->
-<!--<img src="https://img.shields.io/badge/java-F54A2A?style=for-the-badge&logo=java&logoColor=white"/>-->
-<!---->
-<!--</p>-->
+<h2 align="center">🍀 used at the once 🍀</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/java-F54A2A?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 <!-- A+ 띄워주는건데, 너무 한게없어서 일단 보류 ㅠ -->
 <!-- [![Gwangyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gwangyong&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats) -->
